@@ -1,0 +1,209 @@
+C:\Users\karina\Desktop\MVVM\WpfLibrary-master\Mosaic\Mosaic.UI\bin\Debug\Mosaic.UI.exe.config
+C:\Users\karina\Desktop\MVVM\WpfLibrary-master\Mosaic\Mosaic.UI\bin\Debug\Mosaic.UI.exe
+C:\Users\karina\Desktop\MVVM\WpfLibrary-master\Mosaic\Mosaic.UI\bin\Debug\Mosaic.UI.pdb
+C:\Users\karina\Desktop\MVVM\WpfLibrary-master\Mosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\karina\Desktop\MVVM\WpfLibrary-master\Mosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\karina\Desktop\MVVM\WpfLibrary-master\Mosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\karina\Desktop\MVVM\WpfLibrary-master\Mosaic\Mosaic.UI\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\karina\Desktop\MVVM\WpfLibrary-master\Mosaic\Mosaic.UI\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\karina\Desktop\MVVM\WpfLibrary-master\Mosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\karina\Desktop\MVVM\WpfLibrary-master\Mosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\karina\Desktop\MVVM\WpfLibrary-master\Mosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\karina\Desktop\MVVM\WpfLibrary-master\Mosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\karina\Desktop\MVVM\WpfLibrary-master\Mosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\karina\Desktop\MVVM\WpfLibrary-master\Mosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\karina\Desktop\MVVM\WpfLibrary-master\Mosaic\Mosaic.UI\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\karina\Desktop\MVVM\WpfLibrary-master\Mosaic\Mosaic.UI\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\karina\Desktop\MVVM\WpfLibrary-master\Mosaic\Mosaic.UI\obj\Debug\Mosaic.UI.csprojResolveAssemblyReference.cache
+C:\Users\karina\Desktop\MVVM\WpfLibrary-master\Mosaic\Mosaic.UI\obj\Debug\MainWindow.g.cs
+C:\Users\karina\Desktop\MVVM\WpfLibrary-master\Mosaic\Mosaic.UI\obj\Debug\Main\Views\MosaicView.g.cs
+C:\Users\karina\Desktop\MVVM\WpfLibrary-master\Mosaic\Mosaic.UI\obj\Debug\App.g.cs
+C:\Users\karina\Desktop\MVVM\WpfLibrary-master\Mosaic\Mosaic.UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\karina\Desktop\MVVM\WpfLibrary-master\Mosaic\Mosaic.UI\obj\Debug\Mosaic.UI_MarkupCompile.cache
+C:\Users\karina\Desktop\MVVM\WpfLibrary-master\Mosaic\Mosaic.UI\obj\Debug\Mosaic.UI_MarkupCompile.lref
+C:\Users\karina\Desktop\MVVM\WpfLibrary-master\Mosaic\Mosaic.UI\obj\Debug\MainWindow.baml
+C:\Users\karina\Desktop\MVVM\WpfLibrary-master\Mosaic\Mosaic.UI\obj\Debug\Main\Views\MosaicView.baml
+C:\Users\karina\Desktop\MVVM\WpfLibrary-master\Mosaic\Mosaic.UI\obj\Debug\Templates.baml
+C:\Users\karina\Desktop\MVVM\WpfLibrary-master\Mosaic\Mosaic.UI\obj\Debug\Mosaic.UI.g.resources
+C:\Users\karina\Desktop\MVVM\WpfLibrary-master\Mosaic\Mosaic.UI\obj\Debug\Mosaic.UI.Properties.Resources.resources
+C:\Users\karina\Desktop\MVVM\WpfLibrary-master\Mosaic\Mosaic.UI\obj\Debug\Mosaic.UI.csproj.GenerateResource.Cache
+C:\Users\karina\Desktop\MVVM\WpfLibrary-master\Mosaic\Mosaic.UI\obj\Debug\Mosaic.UI.exe
+C:\Users\karina\Desktop\MVVM\WpfLibrary-master\Mosaic\Mosaic.UI\obj\Debug\Mosaic.UI.pdb
+C:\Users\karina\Desktop\MvvmReplication\Mosaic\Mosaic.UI\bin\Debug\Mosaic.UI.exe.config
+C:\Users\karina\Desktop\MvvmReplication\Mosaic\Mosaic.UI\bin\Debug\Mosaic.UI.exe
+C:\Users\karina\Desktop\MvvmReplication\Mosaic\Mosaic.UI\bin\Debug\Mosaic.UI.pdb
+C:\Users\karina\Desktop\MvvmReplication\Mosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\karina\Desktop\MvvmReplication\Mosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\karina\Desktop\MvvmReplication\Mosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\karina\Desktop\MvvmReplication\Mosaic\Mosaic.UI\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\karina\Desktop\MvvmReplication\Mosaic\Mosaic.UI\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\karina\Desktop\MvvmReplication\Mosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\karina\Desktop\MvvmReplication\Mosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\karina\Desktop\MvvmReplication\Mosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\karina\Desktop\MvvmReplication\Mosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\karina\Desktop\MvvmReplication\Mosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\karina\Desktop\MvvmReplication\Mosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\karina\Desktop\MvvmReplication\Mosaic\Mosaic.UI\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\karina\Desktop\MvvmReplication\Mosaic\Mosaic.UI\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\karina\Desktop\MvvmReplication\Mosaic\Mosaic.UI\obj\Debug\MainWindow.g.cs
+C:\Users\karina\Desktop\MvvmReplication\Mosaic\Mosaic.UI\obj\Debug\App.g.cs
+C:\Users\karina\Desktop\MvvmReplication\Mosaic\Mosaic.UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\karina\Desktop\MvvmReplication\Mosaic\Mosaic.UI\obj\Debug\Mosaic.UI_MarkupCompile.cache
+C:\Users\karina\Desktop\MvvmReplication\Mosaic\Mosaic.UI\obj\Debug\Mosaic.UI_MarkupCompile.lref
+C:\Users\karina\Desktop\MvvmReplication\Mosaic\Mosaic.UI\obj\Debug\MainWindow.baml
+C:\Users\karina\Desktop\MvvmReplication\Mosaic\Mosaic.UI\obj\Debug\Main\Views\Templates.baml
+C:\Users\karina\Desktop\MvvmReplication\Mosaic\Mosaic.UI\obj\Debug\Mosaic.UI.g.resources
+C:\Users\karina\Desktop\MvvmReplication\Mosaic\Mosaic.UI\obj\Debug\Mosaic.UI.Properties.Resources.resources
+C:\Users\karina\Desktop\MvvmReplication\Mosaic\Mosaic.UI\obj\Debug\Mosaic.UI.csproj.GenerateResource.Cache
+C:\Users\karina\Desktop\MvvmReplication\Mosaic\Mosaic.UI\obj\Debug\Mosaic.UI.exe
+C:\Users\karina\Desktop\MvvmReplication\Mosaic\Mosaic.UI\obj\Debug\Mosaic.UI.pdb
+C:\Users\karina\Desktop\MvvmReplication\Mosaic\Mosaic.UI\obj\Debug\Mosaic.UI.csprojResolveAssemblyReference.cache
+C:\Users\karina\Desktop\MvvmReplication\New folder\Mosaic\Mosaic.UI\bin\Debug\Mosaic.UI.exe.config
+C:\Users\karina\Desktop\MvvmReplication\New folder\Mosaic\Mosaic.UI\bin\Debug\Mosaic.UI.exe
+C:\Users\karina\Desktop\MvvmReplication\New folder\Mosaic\Mosaic.UI\bin\Debug\Mosaic.UI.pdb
+C:\Users\karina\Desktop\MvvmReplication\New folder\Mosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\karina\Desktop\MvvmReplication\New folder\Mosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\karina\Desktop\MvvmReplication\New folder\Mosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\karina\Desktop\MvvmReplication\New folder\Mosaic\Mosaic.UI\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\karina\Desktop\MvvmReplication\New folder\Mosaic\Mosaic.UI\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\karina\Desktop\MvvmReplication\New folder\Mosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\karina\Desktop\MvvmReplication\New folder\Mosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\karina\Desktop\MvvmReplication\New folder\Mosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\karina\Desktop\MvvmReplication\New folder\Mosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\karina\Desktop\MvvmReplication\New folder\Mosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\karina\Desktop\MvvmReplication\New folder\Mosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\karina\Desktop\MvvmReplication\New folder\Mosaic\Mosaic.UI\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\karina\Desktop\MvvmReplication\New folder\Mosaic\Mosaic.UI\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\karina\Desktop\MvvmReplication\New folder\Mosaic\Mosaic.UI\obj\Debug\MainWindow.g.cs
+C:\Users\karina\Desktop\MvvmReplication\New folder\Mosaic\Mosaic.UI\obj\Debug\App.g.cs
+C:\Users\karina\Desktop\MvvmReplication\New folder\Mosaic\Mosaic.UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\karina\Desktop\MvvmReplication\New folder\Mosaic\Mosaic.UI\obj\Debug\Mosaic.UI_MarkupCompile.cache
+C:\Users\karina\Desktop\MvvmReplication\New folder\Mosaic\Mosaic.UI\obj\Debug\Mosaic.UI_MarkupCompile.lref
+C:\Users\karina\Desktop\MvvmReplication\New folder\Mosaic\Mosaic.UI\obj\Debug\MainWindow.baml
+C:\Users\karina\Desktop\MvvmReplication\New folder\Mosaic\Mosaic.UI\obj\Debug\Main\Views\TemplatesView.baml
+C:\Users\karina\Desktop\MvvmReplication\New folder\Mosaic\Mosaic.UI\obj\Debug\Mosaic.UI.g.resources
+C:\Users\karina\Desktop\MvvmReplication\New folder\Mosaic\Mosaic.UI\obj\Debug\Mosaic.UI.Properties.Resources.resources
+C:\Users\karina\Desktop\MvvmReplication\New folder\Mosaic\Mosaic.UI\obj\Debug\Mosaic.UI.csproj.GenerateResource.Cache
+C:\Users\karina\Desktop\MvvmReplication\New folder\Mosaic\Mosaic.UI\obj\Debug\Mosaic.UI.exe
+C:\Users\karina\Desktop\MvvmReplication\New folder\Mosaic\Mosaic.UI\obj\Debug\Mosaic.UI.pdb
+C:\Users\karina\Desktop\MvvmReplication\New folder\Mosaic\Mosaic.UI\obj\Debug\Mosaic.UI.csprojResolveAssemblyReference.cache
+C:\Users\eyalr\OneDrive\Desktop\back up & home asignment\MvvmMosaicGame\New folder\Mosaic\Mosaic.UI\bin\Debug\Mosaic.UI.exe.config
+C:\Users\eyalr\OneDrive\Desktop\back up & home asignment\MvvmMosaicGame\New folder\Mosaic\Mosaic.UI\bin\Debug\Mosaic.UI.exe
+C:\Users\eyalr\OneDrive\Desktop\back up & home asignment\MvvmMosaicGame\New folder\Mosaic\Mosaic.UI\bin\Debug\Mosaic.UI.pdb
+C:\Users\eyalr\OneDrive\Desktop\back up & home asignment\MvvmMosaicGame\New folder\Mosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\eyalr\OneDrive\Desktop\back up & home asignment\MvvmMosaicGame\New folder\Mosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\eyalr\OneDrive\Desktop\back up & home asignment\MvvmMosaicGame\New folder\Mosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\eyalr\OneDrive\Desktop\back up & home asignment\MvvmMosaicGame\New folder\Mosaic\Mosaic.UI\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\eyalr\OneDrive\Desktop\back up & home asignment\MvvmMosaicGame\New folder\Mosaic\Mosaic.UI\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\eyalr\OneDrive\Desktop\back up & home asignment\MvvmMosaicGame\New folder\Mosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\eyalr\OneDrive\Desktop\back up & home asignment\MvvmMosaicGame\New folder\Mosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\eyalr\OneDrive\Desktop\back up & home asignment\MvvmMosaicGame\New folder\Mosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\eyalr\OneDrive\Desktop\back up & home asignment\MvvmMosaicGame\New folder\Mosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\eyalr\OneDrive\Desktop\back up & home asignment\MvvmMosaicGame\New folder\Mosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\eyalr\OneDrive\Desktop\back up & home asignment\MvvmMosaicGame\New folder\Mosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\eyalr\OneDrive\Desktop\back up & home asignment\MvvmMosaicGame\New folder\Mosaic\Mosaic.UI\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\eyalr\OneDrive\Desktop\back up & home asignment\MvvmMosaicGame\New folder\Mosaic\Mosaic.UI\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\eyalr\OneDrive\Desktop\back up & home asignment\MvvmMosaicGame\New folder\Mosaic\Mosaic.UI\obj\Debug\Mosaic.UI.csprojResolveAssemblyReference.cache
+C:\Users\eyalr\OneDrive\Desktop\back up & home asignment\MvvmMosaicGame\New folder\Mosaic\Mosaic.UI\obj\Debug\MainWindow.g.cs
+C:\Users\eyalr\OneDrive\Desktop\back up & home asignment\MvvmMosaicGame\New folder\Mosaic\Mosaic.UI\obj\Debug\App.g.cs
+C:\Users\eyalr\OneDrive\Desktop\back up & home asignment\MvvmMosaicGame\New folder\Mosaic\Mosaic.UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\eyalr\OneDrive\Desktop\back up & home asignment\MvvmMosaicGame\New folder\Mosaic\Mosaic.UI\obj\Debug\Mosaic.UI_MarkupCompile.cache
+C:\Users\eyalr\OneDrive\Desktop\back up & home asignment\MvvmMosaicGame\New folder\Mosaic\Mosaic.UI\obj\Debug\Mosaic.UI_MarkupCompile.lref
+C:\Users\eyalr\OneDrive\Desktop\back up & home asignment\MvvmMosaicGame\New folder\Mosaic\Mosaic.UI\obj\Debug\MainWindow.baml
+C:\Users\eyalr\OneDrive\Desktop\back up & home asignment\MvvmMosaicGame\New folder\Mosaic\Mosaic.UI\obj\Debug\Main\Views\TemplatesView.baml
+C:\Users\eyalr\OneDrive\Desktop\back up & home asignment\MvvmMosaicGame\New folder\Mosaic\Mosaic.UI\obj\Debug\Mosaic.UI.g.resources
+C:\Users\eyalr\OneDrive\Desktop\back up & home asignment\MvvmMosaicGame\New folder\Mosaic\Mosaic.UI\obj\Debug\Mosaic.UI.Properties.Resources.resources
+C:\Users\eyalr\OneDrive\Desktop\back up & home asignment\MvvmMosaicGame\New folder\Mosaic\Mosaic.UI\obj\Debug\Mosaic.UI.csproj.GenerateResource.Cache
+C:\Users\eyalr\OneDrive\Desktop\back up & home asignment\MvvmMosaicGame\New folder\Mosaic\Mosaic.UI\obj\Debug\Mosaic.UI.csproj.CoreCompileInputs.cache
+C:\Users\eyalr\OneDrive\Desktop\back up & home asignment\MvvmMosaicGame\New folder\Mosaic\Mosaic.UI\obj\Debug\Mosaic.UI.exe
+C:\Users\eyalr\OneDrive\Desktop\back up & home asignment\MvvmMosaicGame\New folder\Mosaic\Mosaic.UI\obj\Debug\Mosaic.UI.pdb
+C:\Users\eyalr\OneDrive\Desktop\Games\MvvmMosaic\Mosaic.UI\bin\Debug\Mosaic.UI.exe.config
+C:\Users\eyalr\OneDrive\Desktop\Games\MvvmMosaic\Mosaic.UI\bin\Debug\Mosaic.UI.exe
+C:\Users\eyalr\OneDrive\Desktop\Games\MvvmMosaic\Mosaic.UI\bin\Debug\Mosaic.UI.pdb
+C:\Users\eyalr\OneDrive\Desktop\Games\MvvmMosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\eyalr\OneDrive\Desktop\Games\MvvmMosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\eyalr\OneDrive\Desktop\Games\MvvmMosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\eyalr\OneDrive\Desktop\Games\MvvmMosaic\Mosaic.UI\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\eyalr\OneDrive\Desktop\Games\MvvmMosaic\Mosaic.UI\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\eyalr\OneDrive\Desktop\Games\MvvmMosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\eyalr\OneDrive\Desktop\Games\MvvmMosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\eyalr\OneDrive\Desktop\Games\MvvmMosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\eyalr\OneDrive\Desktop\Games\MvvmMosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\eyalr\OneDrive\Desktop\Games\MvvmMosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\eyalr\OneDrive\Desktop\Games\MvvmMosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\eyalr\OneDrive\Desktop\Games\MvvmMosaic\Mosaic.UI\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\eyalr\OneDrive\Desktop\Games\MvvmMosaic\Mosaic.UI\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\eyalr\OneDrive\Desktop\Games\MvvmMosaic\Mosaic.UI\obj\Debug\Mosaic.UI.csprojResolveAssemblyReference.cache
+C:\Users\eyalr\OneDrive\Desktop\Games\MvvmMosaic\Mosaic.UI\obj\Debug\MainWindow.g.cs
+C:\Users\eyalr\OneDrive\Desktop\Games\MvvmMosaic\Mosaic.UI\obj\Debug\App.g.cs
+C:\Users\eyalr\OneDrive\Desktop\Games\MvvmMosaic\Mosaic.UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\eyalr\OneDrive\Desktop\Games\MvvmMosaic\Mosaic.UI\obj\Debug\Mosaic.UI_MarkupCompile.cache
+C:\Users\eyalr\OneDrive\Desktop\Games\MvvmMosaic\Mosaic.UI\obj\Debug\Mosaic.UI_MarkupCompile.lref
+C:\Users\eyalr\OneDrive\Desktop\Games\MvvmMosaic\Mosaic.UI\obj\Debug\MainWindow.baml
+C:\Users\eyalr\OneDrive\Desktop\Games\MvvmMosaic\Mosaic.UI\obj\Debug\Main\Views\TemplatesView.baml
+C:\Users\eyalr\OneDrive\Desktop\Games\MvvmMosaic\Mosaic.UI\obj\Debug\Mosaic.UI.g.resources
+C:\Users\eyalr\OneDrive\Desktop\Games\MvvmMosaic\Mosaic.UI\obj\Debug\Mosaic.UI.Properties.Resources.resources
+C:\Users\eyalr\OneDrive\Desktop\Games\MvvmMosaic\Mosaic.UI\obj\Debug\Mosaic.UI.csproj.GenerateResource.Cache
+C:\Users\eyalr\OneDrive\Desktop\Games\MvvmMosaic\Mosaic.UI\obj\Debug\Mosaic.UI.csproj.CoreCompileInputs.cache
+C:\Users\eyalr\OneDrive\Desktop\Games\MvvmMosaic\Mosaic.UI\obj\Debug\Mosaic.UI.exe
+C:\Users\eyalr\OneDrive\Desktop\Games\MvvmMosaic\Mosaic.UI\obj\Debug\Mosaic.UI.pdb
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\MvvmMosaic\Mosaic.UI\bin\Debug\Mosaic.UI.exe.config
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\MvvmMosaic\Mosaic.UI\bin\Debug\Mosaic.UI.exe
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\MvvmMosaic\Mosaic.UI\bin\Debug\Mosaic.UI.pdb
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\MvvmMosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\MvvmMosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\MvvmMosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\MvvmMosaic\Mosaic.UI\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\MvvmMosaic\Mosaic.UI\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\MvvmMosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\MvvmMosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\MvvmMosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\MvvmMosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\MvvmMosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\MvvmMosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\MvvmMosaic\Mosaic.UI\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\MvvmMosaic\Mosaic.UI\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\MvvmMosaic\Mosaic.UI\obj\Debug\Mosaic.UI.csprojResolveAssemblyReference.cache
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\MvvmMosaic\Mosaic.UI\obj\Debug\MainWindow.g.cs
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\MvvmMosaic\Mosaic.UI\obj\Debug\App.g.cs
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\MvvmMosaic\Mosaic.UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\MvvmMosaic\Mosaic.UI\obj\Debug\Mosaic.UI_MarkupCompile.cache
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\MvvmMosaic\Mosaic.UI\obj\Debug\Mosaic.UI_MarkupCompile.lref
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\MvvmMosaic\Mosaic.UI\obj\Debug\MainWindow.baml
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\MvvmMosaic\Mosaic.UI\obj\Debug\Main\Views\TemplatesView.baml
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\MvvmMosaic\Mosaic.UI\obj\Debug\Mosaic.UI.g.resources
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\MvvmMosaic\Mosaic.UI\obj\Debug\Mosaic.UI.Properties.Resources.resources
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\MvvmMosaic\Mosaic.UI\obj\Debug\Mosaic.UI.csproj.GenerateResource.Cache
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\MvvmMosaic\Mosaic.UI\obj\Debug\Mosaic.UI.csproj.CoreCompileInputs.cache
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\MvvmMosaic\Mosaic.UI\obj\Debug\Mosaic.UI.exe
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\MvvmMosaic\Mosaic.UI\obj\Debug\Mosaic.UI.pdb
+C:\Users\eyalr\Desktop\Games\MvvmMosaic\Mosaic.UI\bin\Debug\Mosaic.UI.exe.config
+C:\Users\eyalr\Desktop\Games\MvvmMosaic\Mosaic.UI\bin\Debug\Mosaic.UI.exe
+C:\Users\eyalr\Desktop\Games\MvvmMosaic\Mosaic.UI\bin\Debug\Mosaic.UI.pdb
+C:\Users\eyalr\Desktop\Games\MvvmMosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\eyalr\Desktop\Games\MvvmMosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\eyalr\Desktop\Games\MvvmMosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\eyalr\Desktop\Games\MvvmMosaic\Mosaic.UI\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\eyalr\Desktop\Games\MvvmMosaic\Mosaic.UI\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\eyalr\Desktop\Games\MvvmMosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\eyalr\Desktop\Games\MvvmMosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\eyalr\Desktop\Games\MvvmMosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\eyalr\Desktop\Games\MvvmMosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\eyalr\Desktop\Games\MvvmMosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\eyalr\Desktop\Games\MvvmMosaic\Mosaic.UI\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\eyalr\Desktop\Games\MvvmMosaic\Mosaic.UI\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\eyalr\Desktop\Games\MvvmMosaic\Mosaic.UI\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\eyalr\Desktop\Games\MvvmMosaic\Mosaic.UI\obj\Debug\Mosaic.UI.csprojResolveAssemblyReference.cache
+C:\Users\eyalr\Desktop\Games\MvvmMosaic\Mosaic.UI\obj\Debug\MainWindow.g.cs
+C:\Users\eyalr\Desktop\Games\MvvmMosaic\Mosaic.UI\obj\Debug\App.g.cs
+C:\Users\eyalr\Desktop\Games\MvvmMosaic\Mosaic.UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\eyalr\Desktop\Games\MvvmMosaic\Mosaic.UI\obj\Debug\Mosaic.UI_MarkupCompile.cache
+C:\Users\eyalr\Desktop\Games\MvvmMosaic\Mosaic.UI\obj\Debug\Mosaic.UI_MarkupCompile.lref
+C:\Users\eyalr\Desktop\Games\MvvmMosaic\Mosaic.UI\obj\Debug\MainWindow.baml
+C:\Users\eyalr\Desktop\Games\MvvmMosaic\Mosaic.UI\obj\Debug\Main\Views\TemplatesView.baml
+C:\Users\eyalr\Desktop\Games\MvvmMosaic\Mosaic.UI\obj\Debug\Mosaic.UI.g.resources
+C:\Users\eyalr\Desktop\Games\MvvmMosaic\Mosaic.UI\obj\Debug\Mosaic.UI.Properties.Resources.resources
+C:\Users\eyalr\Desktop\Games\MvvmMosaic\Mosaic.UI\obj\Debug\Mosaic.UI.csproj.GenerateResource.Cache
+C:\Users\eyalr\Desktop\Games\MvvmMosaic\Mosaic.UI\obj\Debug\Mosaic.UI.csproj.CoreCompileInputs.cache
+C:\Users\eyalr\Desktop\Games\MvvmMosaic\Mosaic.UI\obj\Debug\Mosaic.UI.exe
+C:\Users\eyalr\Desktop\Games\MvvmMosaic\Mosaic.UI\obj\Debug\Mosaic.UI.pdb
